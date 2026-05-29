@@ -13,3 +13,9 @@ basically valorant inspect system with f spam and you can right click
 
 
 [very WIP]//the GUI was ripped straight from my original GUI (EstrogenWare for RIVALS, also skin changer cheat script)
+
+
+
+issues: 
+
+Custom Knife Viewmodel Changer if you move the arms far enough you can see the fakecamera... will fix in a later update.
