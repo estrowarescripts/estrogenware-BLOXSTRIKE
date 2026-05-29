@@ -12,5 +12,4 @@ basically valorant inspect system with f spam and you can right click
 <img width="557" height="415" alt="image" src="https://github.com/user-attachments/assets/0a00a7dd-a810-4d0a-9c48-3cf8ffbd2a61" />
 
 
-[very WIP]
-\\the GUI was ripped straight from my original GUI (EstrogenWare for RIVALS, also skin changer cheat script)
+[very WIP]//the GUI was ripped straight from my original GUI (EstrogenWare for RIVALS, also skin changer cheat script)
