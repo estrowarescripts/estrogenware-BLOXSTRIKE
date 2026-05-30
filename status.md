@@ -5,4 +5,4 @@ tested on this account with this playtime:
 <img width="997" height="388" alt="image" src="https://github.com/user-attachments/assets/88069720-0dcc-49db-89e9-c3397803e502" />
 
 
-update: full blatant gets you banned. use alt, or just use skin changer.
+update: full blatant gets you banned. use alt with no other account signed in, or just use skin changer.
