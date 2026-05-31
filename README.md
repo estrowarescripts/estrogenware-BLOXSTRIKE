@@ -1,4 +1,4 @@
-# estrogenware
+# bloxware
 "skid" / rip from bandit9script basically(fixed knife system entirely tho)
 
 how to use inspect system:
