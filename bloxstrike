@@ -2,3 +2,5 @@ getgenv().SCRIPT_KEY = "KEYLESS"
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/0e37410d2e767c8452a36ac4b11e48dfde4f6246f7076c2d1d0cf910e06fe530/download"))()
 
 copy the 2 lines into your executor and boom, loaded bloxware.
+
+would recommend putting in your scripts autoexec folder.
